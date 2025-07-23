@@ -44,6 +44,11 @@ To conduct a comprehensive analysis of Blinkit's:
 ---
 
 ## 📊 Charts & Visualizations
+<br>
+<img width="1500" height="780" alt="image" src="https://github.com/user-attachments/assets/0f196ac7-bb3b-4dc4-b703-a7518afa9103" /><br><br>
+
+
+
 
 | Chart Title | Objective | Chart Type |
 |-------------|-----------|-------------|
